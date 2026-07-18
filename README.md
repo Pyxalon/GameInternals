@@ -5,10 +5,10 @@
 
 <p align="center">
 
-🏠 Home •
-🚗 GTA V •
-🌐 FiveM •
-📂 Projects
+[🏠 Home](README.md) |
+[🚗 GTA V](docs/gta5.md) |
+[🌐 FiveM](docs/fivem.md) |
+[📂 Projects](projects/README.md)
 
 </p>
 
