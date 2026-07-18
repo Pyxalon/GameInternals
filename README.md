@@ -37,7 +37,6 @@ Open-source documentation, guides, and examples for C++, game programming, rever
 docs/
 examples/
 projects/
-snippets/
 ```
 
 ---
