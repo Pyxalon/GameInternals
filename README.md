@@ -1,33 +1,41 @@
-# GameInternals
+# 🎮 GameInternals
 
-> Learn how games work internally.
+> **Learn how games work internally.**
 
 Open-source documentation, guides, and examples for C++, game programming, reverse engineering, graphics, and game internals.
 
+---
+
 ## 📚 Topics
 
-* C++
-* Game Programming
-* Reverse Engineering
-* Memory
-* ImGui
-* DirectX
-* GTA V
-* FiveM
+* 💻 C++
+* 🎮 Game Programming
+* 🔍 Reverse Engineering
+* 🧠 Memory
+* 🖼️ ImGui
+* ⚡ DirectX
+* 🚗 GTA V
+* 🌐 FiveM
+
+---
 
 ## 📁 Structure
 
-```text
+```text id="vayxlh"
 docs/
 examples/
 projects/
 snippets/
 ```
 
+---
+
 ## 🤝 Contributing
 
-Contributions are welcome. Feel free to open an issue or submit a pull request.
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+---
 
 ## 📄 License
 
-Licensed under the MIT License.
+Licensed under the **MIT License**.
